@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://pleasant-sycamore-4cd9f.netlify.app"
+    "domain": "https://pleasant-sycamore-4cd9f.netlify.app",
+    "favicon": "/images/logo_白.jpg"
 }
